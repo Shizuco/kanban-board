@@ -1,0 +1,19 @@
+{
+  "name": "kanban-board",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "./js/main.js",
+  "scripts": {},
+  "keywords": [
+    "kanban-board",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Suvorova Maria",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}
